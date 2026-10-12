@@ -1,0 +1,53 @@
+{
+  "tool": "Built-in image_gen",
+  "jobs": [
+    {
+      "name": "01-portfolio-mockup-en-logo",
+      "prompt": "Use case: compositing. Image 1 is the edit target; image 2 is the supplied real logo supporting insert. Keep target's portrait 4:5 composition, device geometry or artwork, charcoal and lime colors, premium finish. Add the actual geometric MG/server emblem from image 2 as a crisp visible brand signature in available negative space near the name, and in device header if present. Preserve its recognizable exact geometry, use ivory for dark navy portions and retain green accents for visibility on dark background. No white rectangle, no backing tile. Use the emblem portion only, omitting the outdated 'Senior Backend Engineer' tagline; retain Software Engineer identity. Website must read exactly 'mohammadrezagohari.github.io'. No watermark. Change only branding insertion; preserve all existing English copy and layout.",
+      "referenced_image_paths": [
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/output/instagram/01-portfolio-mockup.png",
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/assets/logo.png"
+      ]
+    },
+    {
+      "name": "02-selected-work-en-logo",
+      "prompt": "Use case: compositing. Image 1 is the edit target; image 2 is the supplied real logo supporting insert. Keep target's portrait 4:5 composition, device geometry or artwork, charcoal and lime colors, premium finish. Add the actual geometric MG/server emblem from image 2 as a crisp visible brand signature in available negative space near the name, and in device header if present. Preserve its recognizable exact geometry, use ivory for dark navy portions and retain green accents for visibility on dark background. No white rectangle, no backing tile. Use the emblem portion only, omitting the outdated 'Senior Backend Engineer' tagline; retain Software Engineer identity. Website must read exactly 'mohammadrezagohari.github.io'. No watermark. Change only branding insertion; preserve all existing English copy and layout.",
+      "referenced_image_paths": [
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/output/instagram/02-selected-work.png",
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/assets/logo.png"
+      ]
+    },
+    {
+      "name": "03-engineering-skills-en-logo",
+      "prompt": "Use case: compositing. Image 1 is the edit target; image 2 is the supplied real logo supporting insert. Keep target's portrait 4:5 composition, device geometry or artwork, charcoal and lime colors, premium finish. Add the actual geometric MG/server emblem from image 2 as a crisp visible brand signature in available negative space near the name, and in device header if present. Preserve its recognizable exact geometry, use ivory for dark navy portions and retain green accents for visibility on dark background. No white rectangle, no backing tile. Use the emblem portion only, omitting the outdated 'Senior Backend Engineer' tagline; retain Software Engineer identity. Website must read exactly 'mohammadrezagohari.github.io'. No watermark. Change only branding insertion; preserve all existing English copy and layout.",
+      "referenced_image_paths": [
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/output/instagram/03-engineering-skills.png",
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/assets/logo.png"
+      ]
+    },
+    {
+      "name": "01-portfolio-mockup-fa-logo",
+      "prompt": "Use case: compositing. Image 1 is the edit target; image 2 is the supplied real logo supporting insert. Keep target's portrait 4:5 composition, device geometry or artwork, charcoal and lime colors, premium finish. Add the actual geometric MG/server emblem from image 2 as a crisp visible brand signature in available negative space near the name, and in device header if present. Preserve its recognizable exact geometry, use ivory for dark navy portions and retain green accents for visibility on dark background. No white rectangle, no backing tile. Use the emblem portion only, omitting the outdated 'Senior Backend Engineer' tagline; retain Software Engineer identity. Website must read exactly 'mohammadrezagohari.github.io'. No watermark. Use case: text-localization. Localize promotional headline to exact Persian 'مهندس نرم‌افزار' and name to 'محمدرضا گوهری'. Replace visible UI headings with 'از ایده تا محصول' and 'نرم‌افزار قابل اعتماد'. Navigation 'درباره من'، 'مهارت‌ها'، 'پروژه‌ها'، 'سوابق'. Button 'مشاهده پروژه‌ها'. Set Persian text correctly connected and right-to-left with elegant modern Persian sans typography. Keep code and URL Latin. Simplify tiny body copy rather than gibberish.",
+      "referenced_image_paths": [
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/output/instagram/01-portfolio-mockup.png",
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/assets/logo.png"
+      ]
+    },
+    {
+      "name": "02-selected-work-fa-logo",
+      "prompt": "Use case: compositing. Image 1 is the edit target; image 2 is the supplied real logo supporting insert. Keep target's portrait 4:5 composition, device geometry or artwork, charcoal and lime colors, premium finish. Add the actual geometric MG/server emblem from image 2 as a crisp visible brand signature in available negative space near the name, and in device header if present. Preserve its recognizable exact geometry, use ivory for dark navy portions and retain green accents for visibility on dark background. No white rectangle, no backing tile. Use the emblem portion only, omitting the outdated 'Senior Backend Engineer' tagline; retain Software Engineer identity. Website must read exactly 'mohammadrezagohari.github.io'. No watermark. Use case: text-localization. Exact main Persian headline 'پروژه‌های منتخب' and subtitle 'محمدرضا گوهری | مهندس نرم‌افزار'. Keep 'RepositoryPattern' as Latin with subtitle 'پکیج لاراول'. Commerce card title 'فروشگاه اینترنتی' subtitle 'API فروشگاهی لاراول'. Gandom card title 'گندم' subtitle 'پلتفرم وب'. Doktordoktor card title 'دکتردکتر' subtitle 'سلامت دیجیتال'. Replace decorative English words with restrained Persian or remove them. Beautiful connected Persian RTL typography. Keep four-card imagery and layout.",
+      "referenced_image_paths": [
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/output/instagram/02-selected-work.png",
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/assets/logo.png"
+      ]
+    },
+    {
+      "name": "03-engineering-skills-fa-logo",
+      "prompt": "Use case: compositing. Image 1 is the edit target; image 2 is the supplied real logo supporting insert. Keep target's portrait 4:5 composition, device geometry or artwork, charcoal and lime colors, premium finish. Add the actual geometric MG/server emblem from image 2 as a crisp visible brand signature in available negative space near the name, and in device header if present. Preserve its recognizable exact geometry, use ivory for dark navy portions and retain green accents for visibility on dark background. No white rectangle, no backing tile. Use the emblem portion only, omitting the outdated 'Senior Backend Engineer' tagline; retain Software Engineer identity. Website must read exactly 'mohammadrezagohari.github.io'. No watermark. Use case: text-localization. Exact Persian headline 'از ایده تا اجرا'. Six card labels exactly 'بک‌اند'، 'فرانت‌اند'، 'پایگاه داده'، 'طراحی سیستم'، 'الگوریتم‌ها'، 'زیرساخت و DevOps'. Short descriptions respectively 'سرویس‌های پایدار و مقیاس‌پذیر'، 'رابط‌های کاربردی و واکنش‌گرا'، 'طراحی و بهینه‌سازی داده'، 'معماری قابل توسعه و نگهداری'، 'حل مسئله با راهکارهای بهینه'، 'استقرار، اتوماسیون و پایداری'. Name 'محمدرضا گوهری', role 'مهندس نرم‌افزار'. Keep tech names Latin. Correct connected right-to-left Persian typography; preserve system blocks and connecting lines.",
+      "referenced_image_paths": [
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/output/instagram/03-engineering-skills.png",
+        "C:/Users/USER/Downloads/mohammadrezagohari-portfolio/assets/logo.png"
+      ]
+    }
+  ]
+}
