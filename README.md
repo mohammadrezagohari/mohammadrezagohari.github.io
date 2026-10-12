@@ -1,6 +1,6 @@
 # Mohammadreza Gohari — Personal Website
 
-A lightweight, responsive, bilingual (English/Persian) personal portfolio for a Senior Backend Engineer. No build step, framework, Node.js runtime or paid hosting required.
+A lightweight, responsive, bilingual (English/Persian) personal portfolio for a Software Engineer. No build step, framework, Node.js runtime or paid hosting required.
 
 **Intended URL:** https://mohammadrezagohari.github.io/
 
