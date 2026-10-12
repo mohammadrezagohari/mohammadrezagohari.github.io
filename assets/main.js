@@ -29,6 +29,7 @@
     skill5Body:"Building web interfaces with Next.js, integrating APIs and connecting frontend experiences to backend services.",
     skill6Title:"System & algorithm design",
     skill6Body:"Designing system boundaries, choosing data structures and algorithms, analyzing complexity and balancing scalability with maintainability.",
+    project5Type:'E-COMMERCE / SOURCE CODE',project5Desc:'A Laravel e-commerce API with Sanctum authentication, customer and seller roles, product discovery, shopping baskets, support tickets, invoice notifications and a Postman collection.',
     project4Type:"HEALTHTECH / WEB PLATFORM",
     project4Desc:"Engineering contributions at Doktordoktor: simplifying backend applications and improving code quality tooling, engineering workflows and observability.",
   };
@@ -60,6 +61,7 @@
     skill5Body:"ساخت رابط‌های وب با Next.js، اتصال به API و یکپارچه‌سازی تجربه کاربری با سرویس‌های بک‌اند.",
     skill6Title:"طراحی سیستم و الگوریتم",
     skill6Body:"طراحی مرزهای سیستم، انتخاب ساختار داده و الگوریتم، تحلیل پیچیدگی و ایجاد تعادل میان مقیاس‌پذیری و قابلیت نگهداری.",
+    project5Type:'فروشگاه اینترنتی / سورس کد',project5Desc:'API فروشگاهی لاراول با احراز هویت Sanctum، نقش‌های مشتری و فروشنده، فهرست محصولات، سبد خرید، تیکت پشتیبانی، اعلان فاکتور و کالکشن Postman.',
     project4Type:"سلامت دیجیتال / پلتفرم وب",
     project4Desc:"مشارکت مهندسی در دکتردکتر؛ ساده‌سازی اپلیکیشن‌های بک‌اند و بهبود ابزارهای کیفیت کد، فرایندهای توسعه و مشاهده‌پذیری.",
   };
